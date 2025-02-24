@@ -1,8 +1,7 @@
-# React + Vite
+The Keeper App.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Starting with all the React Components that I've learnt till now and merging them to make a To-Do App.
 
-Currently, two official plugins are available:
+Go get your special sock out nerds! It's going to get good.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Let's Fuckin' Go!
