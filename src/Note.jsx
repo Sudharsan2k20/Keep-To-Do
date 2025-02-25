@@ -5,8 +5,8 @@ function Note(){
 
     return(
         <div>
-            <h1>Give a Title for your Note.</h1>
-            <p>Enter your task here</p>
+            <h1 className="sub-title">Give a Title for your Note.</h1>
+            <p className="context">Enter your task here</p>
         </div>
     )
 }

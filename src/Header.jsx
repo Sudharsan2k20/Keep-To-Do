@@ -5,7 +5,7 @@ import Note from "./Note"
 function App(){
     return(
         <div>
-        <h1>Keep To-Do</h1>
+        <h1 className="title">Keep To-Do</h1>
 
         <Note></Note>
 
