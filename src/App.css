@@ -3,7 +3,7 @@ body{
 }
 
 
-.title, .context, .sub-title, .copyrights{
+.title, .context, .sub-title, footer p{
   font-family: "Playwrite IT Moderna", serif;
   font-optical-sizing: auto;
 }
@@ -16,6 +16,7 @@ body{
     padding-left: 30px;
     padding-bottom: 20px;
     margin: 0;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
 }
 
 .sub-title{
@@ -25,4 +26,34 @@ body{
 .context{
     font-size: 25px;
 }
+
+footer p{
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+}
+
+.note{
+    background: #fff;
+    border-radius: 7px;
+    box-shadow: 0 2px 5px #ccc;
+    padding: 2px;
+    width:240px;
+    margin: 16px;
+    float:left
+}
+
+.note h1{
+    font-size: 1.1em;
+    margin-bottom: 6px;
+}
+
+.note p{
+    font-size: 1.1em;
+    margin-bottom: 6px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
 

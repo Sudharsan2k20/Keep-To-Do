@@ -5,13 +5,14 @@ import Note from "./Note"
 function App(){
     return(
         <div>
-        <h1 className="title">Keep To-Do</h1>
+            <header><h1 className="title">Keep To-Do</h1></header>
 
-        <Note></Note>
+            <Note></Note>
 
 
-        <Footer></Footer>
+            <Footer></Footer>
         </div>
+        
     ) 
 }
 

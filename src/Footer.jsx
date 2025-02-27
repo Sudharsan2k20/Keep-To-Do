@@ -6,7 +6,11 @@ console.log(date);
 
 function Footer(){
     return(
-       <p className="copyrights">Copyrights {year}</p>
+       <footer>
+            <p className="copyrights">Copyrights {year}</p>
+        </footer>
+           
+        
     )
 }
 
