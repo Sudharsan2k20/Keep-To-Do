@@ -28,13 +28,17 @@ body{
 }
 
 
-
-
 footer p{
     width: 100%;
+    background-color: black;
+    color:  #e9c80c;
     text-align: center;
     position: absolute;
     bottom: 0;
+}
+
+footer a{
+    color:  #e9c80c;
 }
 
 .note{
